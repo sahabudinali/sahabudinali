@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahabudinali
 - 👀 I’m interested in Machine Learning. 
-- 🌱 I’m currently working as a Software Engineer 
+- I love to code in C++ and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sahabudinali97@gmail.com
 
