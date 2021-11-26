@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sahabudinali
-- 👀 I’m interested in Machine Learning. 
+- 👀 I’m interested in Software Development and Machine Learning. 
 - I love to code in C++ and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sahabudinali97@gmail.com
