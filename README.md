@@ -5,7 +5,6 @@
 - I have good knowledge of data structure and Algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sahabudinali97@gmail.com
--LeetCode: https://leetcode.com/sahabudin/
 -LinkedIn: https://www.linkedin.com/in/sahabudin-ali-168250181/
 
 <!---
