@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sahabudinali97@gmail.com       
 - Pronouns: he/his 
-LeetCode: https://leetcode.com/sahabudin/
+-LeetCode: https://leetcode.com/sahabudin/
 -LinkedIn: https://www.linkedin.com/in/sahabudin-ali-168250181/
 
 <!---
