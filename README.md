@@ -10,7 +10,7 @@
 LeetCode: https://leetcode.com/sahabudin/
 
 
--LinkedIn: https://www.linkedin.com/in/sahabudin-ali-168250181/
+-LinkedIn: https://www.linkedin.com/in/sahabudinali/
 
 <!---
 sahabudinali/sahabudinali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
