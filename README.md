@@ -4,8 +4,7 @@
 - I love to solve the problems.
 - I have good knowledge of data structure and Algorithms
 - Open Source Contributor.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sahabudinali97@gmail.com       
+- 💞️ I’m looking to collaborate on ... 
 - Pronouns: he/his 
 
 LeetCode: https://leetcode.com/sahabudin/
