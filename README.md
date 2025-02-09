@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sahabudinali
-- 👀 I’m interested in Software Development
 - I love to code in C++,Java and Python.
 - I love to solve the problems.
 - I have good knowledge of data structure and Algorithms
